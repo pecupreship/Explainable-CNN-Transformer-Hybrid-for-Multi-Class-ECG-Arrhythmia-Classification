@@ -46,7 +46,7 @@ The preprocessing pipeline included:
 
 Heartbeat-centered segmentation preserved clinically meaningful waveform morphology for deep learning-based ECG sequence analysis.
 
-CNN-Transformer Hybrid Architecture
+## CNN-Transformer Hybrid Architecture
 
 To improve local waveform representation and computational efficiency, the baseline Transformer architecture was extended into a CNN-Transformer hybrid framework. The convolutional layers extracted local ECG morphology features such as QRS complexes and waveform patterns, while the Transformer encoder modeled long-range temporal dependencies for multi-class arrhythmia classification.
 
@@ -130,7 +130,6 @@ The CNN-Transformer hybrid architecture demonstrated effective ECG feature learn
 
 The project also highlighted practical research challenges including:
 
-This project demonstrates the application of CNN-Transformer hybrid architectures in healthcare time-series analysis and contributes toward the development of interpretable and explainable AI systems for automated cardiac diagnosis.
 
 **Author**
 
