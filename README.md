@@ -11,17 +11,15 @@ Electrocardiography (ECG) remains one of the most important non-invasive tools f
 
 Recent advances in deep learning and Transformer architectures have demonstrated strong capabilities in sequential data modeling. This project investigates the application of a CNN-Transformer hybrid framework for ECG arrhythmia classification while integrating explainable AI mechanisms for interpretable clinical decision support.
 
-**Objectives**
+## Objectives
 
-The primary objectives of this project are:
+- Develop a CNN-Transformer hybrid ECG classification framework
+- Perform automated multi-class arrhythmia classification
+- Learn local ECG morphology and long-range temporal dependencies
+- Evaluate model performance using clinically relevant metrics
+- Incorporate explainable AI for interpretable predictions
 
--Develop a CNN-Transformer hybrid ECG classification framework
--Perform automated multi-class arrhythmia classification
--Learn local ECG morphology and long-range temporal dependencies
--Evaluate model performance using clinically relevant metrics
--Incorporate explainable AI for interpretable predictions
-
-**Dataset**
+## Dataset
 MIT-BIH Arrhythmia Database
 
 The project utilizes the publicly available MIT-BIH Arrhythmia Database from PhysioNet.
