@@ -130,6 +130,8 @@ The CNN-Transformer hybrid architecture demonstrated effective ECG feature learn
 
 The project also highlighted practical research challenges including:
 
+- class imbalance handling
+- minority class sensitivity analysis
 
 **Author**
 
